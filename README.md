@@ -16,6 +16,13 @@ Features:
 ![Galaxy](https://raw.github.com/carlos-jenkins/galaxy/master/media/screenshot.png "Galaxy")
 
 
+Download
+========
+
+- [Microsoft Windows](https://launchpad.net/galaxy-gpl/trunk/1.0/+download/GalaxySetup.exe "Download Galaxy for MS Windows")
+- [GNU/Linux](https://github.com/carlos-jenkins/galaxy/tarball/master "Download Galaxy for GNU/Linux")
+
+
 How to build
 ============
 
